@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Compiler Summary and Next Steps** <span id="11"></span> 
 *This unit concludes our course study of compilers. * *We summarize the
 topics we have studied in the course and look ahead to further study to

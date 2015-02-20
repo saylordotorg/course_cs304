@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Compiler Verification and Validation** <span id="10"></span> 
 *The verification and validation (V&V) of a compiler consists of the V&V
 of its parts: scanner or lexical analyzer, syntax analyzer, semantic

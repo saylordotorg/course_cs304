@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Compilers** <span id="1"></span> 
 *The compilation process is one of the stepsin executing a program. 
 Understanding how compilerswork and what goes on “behind the scenes”

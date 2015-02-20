@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Syntax Directed Translation and Semantic Analysis** <span
 id="6"></span> 
 *Semantic Analysis takes input from the parsing process and prepares the

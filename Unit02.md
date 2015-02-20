@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Formal Languages and Formal Grammar** <span id="2"></span> 
 *Formal languages and formal grammars are the theoretical foundation for
 computer languages and the compilation process.  Formal languages are

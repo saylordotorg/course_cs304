@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Scanning and Lexical Analysis** <span id="4"></span> 
 *Lexical analysis is performed by a scanner, one of the front-end
 components of a compiler.  The foundation for lexical analysis is

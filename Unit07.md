@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Runtime Environment** <span id="7"></span> 
 *Runtime* *environment considerations include organization* *of the
 compiled program, storage,* *building blocks of a compiled program, and*

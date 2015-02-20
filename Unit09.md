@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Code Optimization** <span id="9"></span> 
 *Simply compiling and executing a program is not enough to get the most
 out of your code.  It is the optimization process that allows your code

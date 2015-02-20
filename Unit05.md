@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Parsing and Syntax Analysis** <span id="5"></span> 
 *The next step of the compilation process is parsing. * *This step also
 has a foundation in formal languages and automata. * *Parsing takes

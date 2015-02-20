@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS304: Compilers"
+course_description: "A detailed introduction to programming language translation, including the functions and general organization of compiler design and interpreters. Focuses on the study of syntax, semantics, ambiguities, procedures replication, iteration, and recursion in these languages."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Finite State Machines** <span id="3"></span> 
 *Finite state machines (FSM), also called finite state automata (FSA),
 are conceptual models for recognizing, parsing, and generating strings
