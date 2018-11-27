@@ -39,7 +39,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 2: “[Specifying languages with regular
     expressions and context-free
-    grammars](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
+    grammars](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 2 – 8, and slides 38 – 41.  Regular and
@@ -70,7 +70,7 @@ Upon successful completion of this unit, the student will be able to:
     parsing”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 3: “[Introduction to shift-reduce
-    parsing](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-2.2-MIT.pdf)”
+    parsing](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-2.2-MIT.pdf)”
     (PDF)  
         
      Instructions: Please study slides 41–67.  
@@ -144,7 +144,7 @@ Upon successful completion of this unit, the student will be able to:
     Language Engineering: “Practice Quiz 1”**
     Link: MIT: S. Amarasinghe and M. Rinard, 6.035 Computer
     Language Engineering:
-    “[Practice Quiz 1](http://www.saylor.org/site/wp-content/uploads/2012/02/CS304-QUIZ.pdf)”
+    “[Practice Quiz 1](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CS304-QUIZ.pdf)”
     (PDF)  
         
      Instructions: Select the PDF and complete exercises 1, 2, and 6. 
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
      The reference's solutions are given at the end of the PDF. 
     Additional exercise and solution information is available in The
     Saylor Foundation’s “[Answer Key to CS304 Assessment
-    1](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-2-Answer-Key-to-Assessment-1-FINAL.pdf).”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-2-Answer-Key-to-Assessment-1-FINAL.pdf).”
     (PDF)
 
 

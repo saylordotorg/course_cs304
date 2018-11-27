@@ -109,7 +109,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.2 Requirements of a Parser** <span id="5.2"></span> 
 -   **Reading: Wikipedia: “Parsing”**
     Link: Wikipedia:
-    “[Parsing](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-5.2-PROGRAMMINGWIKI.pdf)”
+    “[Parsing](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-5.2-PROGRAMMINGWIKI.pdf)”
     (PDF)  
         
      Instructions: Please read the following three paragraphs:
@@ -212,7 +212,7 @@ Upon successful completion of this unit, the student will be able to:
     Language Engineering: Lecture 4: “Top-Down Parsing”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 4: “[Top-Down
-    Parsing](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-5.5.1-TOPDOWNPARSING.pdf)”
+    Parsing](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-5.5.1-TOPDOWNPARSING.pdf)”
     (PDF)  
         
      Instructions: This material overlaps some of the previous
@@ -286,7 +286,7 @@ Upon successful completion of this unit, the student will be able to:
     parsing”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 3: “[Introduction to shift-reduce
-    parsing](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-5.5.2-SHIFTREDUCEPHASING.pdf)”
+    parsing](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-5.5.2-SHIFTREDUCEPHASING.pdf)”
     (PDF)  
         
      Instructions: This material overlaps some of the previous
@@ -403,9 +403,9 @@ Upon successful completion of this unit, the student will be able to:
     formats”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 3: “[Introduction to shift-reduce
-    parsing](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-5.5.2-SHIFTREDUCEPHASING.pdf)”
+    parsing](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-5.5.2-SHIFTREDUCEPHASING.pdf)”
     (PDF) and “[Parse table
-    construction](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-5.6-PARSETABLECONSTRUCTION.pdf)”
+    construction](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-5.6-PARSETABLECONSTRUCTION.pdf)”
     (PDF)  
         
      Instructions: This material overlaps, but also complements, some of
@@ -481,7 +481,7 @@ the requirements of a parser) requires testing and operational use. *
     [Win\_Bison](http://gnuwin32.sourceforge.net/packages/bison.htm).  
         
      You can check your answers with The Saylor Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-5-Answer-Key-to-Assessment-4-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-5-Answer-Key-to-Assessment-4-FINAL.pdf)”
     (PDF). This assessment should take approximately 3 hours to complete
     (not including installation of Bison and the Gcc compiler).  
         

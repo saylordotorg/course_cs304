@@ -299,7 +299,7 @@ memory usage will be needed to validate time and space requirements.  *
     the process for syntax directed translation to intermediate code or
     machine code.  You can check your answers with the Saylor
     Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-8-Answer-Key-to-Assessment-6-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-8-Answer-Key-to-Assessment-6-FINAL.pdf)”
     (PDF).  
         
      This assessment should take you approximately 3 hours to
