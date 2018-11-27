@@ -48,7 +48,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia: “ANSI C”**
     Link: Wikipedia: “[ANSI
-    C](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-10-ANSIC.pdf)”
+    C](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-10-ANSIC.pdf)”
     (PDF)  
         
      Instructions: Select the link and read about certification of ANSI
@@ -62,7 +62,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Assessment 8”**
     Link: The Saylor Foundation’s “[Assessment
-    8](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-10-Assessmet-8.pdf)”
+    8](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-10-Assessmet-8.pdf)”
     (PDF)  
       
      Instructions: Please review subunits 4.7, 5.7, 6.4, 8.5, and 9.6 of
@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
     to complete.  
         
      You can check your answers with the Saylor Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-10-Answer-Key-to-Assessment-8-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-10-Answer-Key-to-Assessment-8-FINAL.pdf)”
     (PDF)
 
 

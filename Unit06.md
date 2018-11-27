@@ -114,7 +114,7 @@ id="6.1"></span> 
     Language Engineering: Lecture 5: “Intermediate formats”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 5: “[Intermediate
-    formats](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-6.2-INTERMEDIATEFORMATS.pdf)”
+    formats](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-6.2-INTERMEDIATEFORMATS.pdf)”
     (PDF)  
         
      Instructions: Please study the slides on intermediate
@@ -251,7 +251,7 @@ to Check** <span id="6.3.4.1"></span> 
     Language Engineering: Lecture 6: “Semantic Analysis”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 6: “[Semantic
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-6.3.4.1-SEMANTICANALYSIS.pdf)”
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-6.3.4.1-SEMANTICANALYSIS.pdf)”
     (PDF)  
         
      Instructions: Please study the slides on type systems and what to
@@ -409,7 +409,7 @@ reliability.*
     and are based on Chapter 6, which covers type checking.  Then,
     please check your answers against the solutions in the Saylor
     Foundation’s “[Answer Key to Assessment
-    5.”](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-6-Answer-Key-to-Assessment-5-FINAL.pdf)
+    5.”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-6-Answer-Key-to-Assessment-5-FINAL.pdf)
     (PDF)  
         
      This assessment should take you approximately 3 hours to

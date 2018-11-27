@@ -91,7 +91,7 @@ Upon successful completion of this unit, the student will be able to:
     and Optimization”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 9: “[Introduction to Program Analysis and
-    Optimization](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.2-INTRODUCTIONPROGRAM.pdf)”
+    Optimization](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.2-INTRODUCTIONPROGRAM.pdf)”
     (PDF)  
         
      Instructions: Please read the slides, which introduce the topics of
@@ -183,9 +183,9 @@ technique for improving assembly code.*
     dataflow analysis” and “Foundations of dataflow analysis”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lectures 10, 11 and 12: “[Introduction to dataflow
-    analysis](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.4-INTRODUCTIONDATAFLOW.pdf)”
+    analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.4-INTRODUCTIONDATAFLOW.pdf)”
     (PDF) and “[Foundations of dataflow
-    analysis](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.4-FOUNDATIONSDATAFLOW.pdf)”
+    analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.4-FOUNDATIONSDATAFLOW.pdf)”
     (PDF)  
         
      Instructions: Please scan over the slides.  They repeat some of the
@@ -228,15 +228,15 @@ optimization, apply to this section.  *
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lectures 13, 14, 15, 16, 17: “[Introduction to code
     optimization: instruction
-    scheduling](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-INTRODUCTIONCODEOPTIMIZATION.pdf),”
+    scheduling](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-INTRODUCTIONCODEOPTIMIZATION.pdf),”
     (PDF) “[Loop optimization: instruction
-    scheduling](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-LOOPOPTIMIZATION.pdf),”
+    scheduling](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-LOOPOPTIMIZATION.pdf),”
     (PDF) “[More loop
-    optimizations](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-MORELOOPOPTIMIZATION.pdf),”
+    optimizations](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-MORELOOPOPTIMIZATION.pdf),”
     (PDF) “[Register
-    allocation](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-REGISTERALLOCATION.pdf),”
+    allocation](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-REGISTERALLOCATION.pdf),”
     (PDF)
-    “[Parallelization](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-PARALLELIZATION.pdf)”
+    “[Parallelization](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-PARALLELIZATION.pdf)”
     (PDF)  
         
      Instructions: Please scan over the slides.  If you find a part that
@@ -256,7 +256,7 @@ optimization, apply to this section.  *
     Language Engineering: Lectures 18: “Memory optimization”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lectures 18: “[Memory
-    optimization](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-9.5-MEMORYOPTIMIZATION.pdf)”
+    optimization](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-9.5-MEMORYOPTIMIZATION.pdf)”
     (PDF)  
         
      Instructions: Please read the slides on memory optimization. 
@@ -310,7 +310,7 @@ id="9.6"></span> 
     The exercise uses common subexpression elimination as an example of
     optimization.  You can check your answers with the Saylor
     Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS304-Unit-9-Answer-Key-to-Assessment-7-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-9-Answer-Key-to-Assessment-7-FINAL.pdf)”
     (PDF).  
         
      This assessment should take you approximately 3 hours to

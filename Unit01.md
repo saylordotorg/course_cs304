@@ -72,7 +72,7 @@ activity in the system (life cycle) process.*
     Language Engineering: Lecture 1: “Introduction”**
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 1:
-    “[Introduction](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-MIT1.1.pdf)”
+    “[Introduction](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-MIT1.1.pdf)”
     (PDF)  
         
      Instructions: For a definition of a compiler and some terminology,
@@ -106,7 +106,7 @@ activity in the system (life cycle) process.*
 
 -   **Reading: Wikipedia’s “Compilers”**
     Link: Wikipedia’s
-    “[Compilers](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-1.2.1-COMPILERSWIKI.pdf)”
+    “[Compilers](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-1.2.1-COMPILERSWIKI.pdf)”
     (PDF)  
         
      Instructions: Read the short paragraph on Related Techniques, which
@@ -122,7 +122,7 @@ activity in the system (life cycle) process.*
 **1.2.2 History** <span id="1.2.2"></span> 
 -   **Reading: Wikipedia’s “Compiler History”**
     Link: Wikipedia’s “[Compiler
-    History](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-1.2.2-COMPILERSHISTORYWIKI.pdf)”
+    History](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-1.2.2-COMPILERSHISTORYWIKI.pdf)”
     (PDF)  
         
      Instructions: Please read the interesting history of the early
@@ -213,7 +213,7 @@ subsection.  *
 **1.2.4 Hardware Compilation** <span id="1.2.4"></span> 
 -   **Reading: Wikipedia: “Compilers”**
     Link: Wikipedia:
-    “[Compilers](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-1.2.4-COMPILERSHARDWAREWIKI.pdf)”
+    “[Compilers](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-1.2.4-COMPILERSHARDWAREWIKI.pdf)”
     (PDF)  
         
      Instructions: Please read the short paragraph on Hardware
@@ -260,7 +260,7 @@ compiler and its parts.*
 **1.4.1 One-Pass vs. Multi-Pass** <span id="1.4.1"></span> 
 -   **Reading: Wikipedia: “One-pass versus multi-pass compilers”**
     Link: Wikipedia: “[One-pass versus multi-pass
-    compilers](http://www.saylor.org/site/wp-content/uploads/2012/01/CS304-1.4.1.-ONEPASSWIKI.pdf)”
+    compilers](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-1.4.1.-ONEPASSWIKI.pdf)”
     (PDF)  
         
      Instructions: Please read the paragraph on one-pass and multi-pass
