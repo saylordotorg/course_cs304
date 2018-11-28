@@ -301,7 +301,7 @@ depends on the reliability and effectiveness of the generator.  *
     are not in the language of Exercise \#1.  
         
      You can check your answers with The Saylor Foundation’s “[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/03/CS304-Unit-4-Answer-Key-to-Assignment-3-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/CS304-Unit-4-Answer-Key-to-Assignment-3-FINAL.pdf)”
     (PDF). This assessment should take approximately 3 hours to complete
     (not including installation of Flex and the Gcc compiler).  
         
@@ -353,7 +353,7 @@ depends on the reliability and effectiveness of the generator.  *
     obtain are compatible.  
       
      You can check your answers with The Saylor Foundation’s “[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS304-Unit-4-Answer-Key-to-Assessment-3-FINAL.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/CS304-Unit-4-Answer-Key-to-Assessment-3-FINAL.pdf)”
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use on the

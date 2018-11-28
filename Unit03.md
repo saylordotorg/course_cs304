@@ -40,7 +40,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 2: “[Specifying languages with regular
     expressions and context-free
-    grammars](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
+    grammars](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 9 – 33.  These slides describe and give
@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: MIT: S. Amarasinghe and M. Rinard’s 6.035 Computer Language
     Engineering: Lecture 2: “[Specifying languages with regular
     expressions and context-free
-    grammars](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
+    grammars](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS304-2.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 34 – 76.  These slides give results and
@@ -126,7 +126,7 @@ Upon successful completion of this unit, the student will be able to:
     Language Engineering: “Practice Quiz 1”**
     Link: MIT: S. Amarasinghe and M. Rinard, 6.035 Computer
     Language Engineering: “[Practice Quiz
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CS304-QUIZ.pdf)”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CS304-QUIZ.pdf)”
     (PDF)  
         
      Instructions: Select the PDF for Practice Quiz 1.  In this
@@ -146,6 +146,6 @@ Upon successful completion of this unit, the student will be able to:
     exercises on FSAs, you should use paper and pencil to draw the FSA
     as it is formed.  Additional exercise and solution information is
     available in The Saylor Foundation’s “[Answer Key to CS304
-    Assessment2](https://resources.saylor.org/archived/wp-content/uploads/2012/08/CS304-Unit-3-Answer-Key-to-Assessment-2-FINAL.pdf).”(PDF)  
+    Assessment2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/CS304-Unit-3-Answer-Key-to-Assessment-2-FINAL.pdf).”(PDF)  
 
 
